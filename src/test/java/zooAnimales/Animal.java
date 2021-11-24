@@ -20,7 +20,6 @@ public class Animal {
 	
 	public Animal() {
 		this(null, 0, null, null);
-		totalAnimales++;
 	}
 	
 	public String getNombre() {

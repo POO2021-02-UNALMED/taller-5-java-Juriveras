@@ -22,7 +22,6 @@ public class Mamifero extends Animal {
 	
 	public Mamifero() {
 		this(null, 0, null, null, false, 0);
-		listado.add(this);
 	}
 	
 	public boolean isPelaje() {

@@ -22,7 +22,6 @@ public class Pez extends Animal {
 	
 	public Pez() {
 		this(null, 0, null, null, null, 0);
-		listado.add(this);
 	}
 	
 	public String getColorEscamas() {
