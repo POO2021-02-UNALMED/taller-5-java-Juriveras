@@ -72,6 +72,7 @@ public class Animal {
 	}
 	
 	public String totalPorTipo() {
+		
 		return "Mamiferos: " + "\n" + "Aves: " + "\n" + "Reptiles: " + "\n" + "Peces: " +
 				"\n" + "Anfibios: ";
 	}
